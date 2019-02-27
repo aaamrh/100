@@ -1,0 +1,22 @@
+样式重置
+
+公共样式：
+    left right wrap clear
+
+
+布局模块 
+
+结构模块
+
+header
+nav
+search
+
+main 
+    section 
+    options
+    main adv
+side
+    section_side
+
+footer
